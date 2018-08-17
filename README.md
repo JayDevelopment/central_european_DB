@@ -1,3 +1,3 @@
 # central_european_DB
 Country info for four European countries.
-Data sourced from http://www.geonames.org.
+Data obtained from http://www.geonames.org.
